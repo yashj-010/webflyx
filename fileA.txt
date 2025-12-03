@@ -1,0 +1,1 @@
+This is the fileA that contains the A commit
